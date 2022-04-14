@@ -11,7 +11,8 @@ You can use the [editor on GitHub](https://github.com/wataruito/Morozov_lab/edit
 2. Ito, W., Erisir, A. & Morozov, A. Observation of Distressed Conspecific as a Model of Emotional Trauma Generates Silent Synapses in the Prefrontal-Amygdala Pathway and Enhances Fear Learning, but Ketamine Abolishes those Effects. Neuropsychopharmacol 40, 2536–2545 (2015). [DOI: 10.1038/npp.2015.100](https://doi.org/10.1038/npp.2015.100)<BR>
 
 ### People
-![Image](alexei.jpg) ![Image](wataru.jpg)
+![Alexei](alexei.jpg)
+![Wataru](wataru.jpg)
 ### Contact
 Alexei Morozov, Ph.D.<BR>
 Fralin Biomedical Research Institute<BR>
