@@ -6,7 +6,9 @@ You can use the [editor on GitHub](https://github.com/wataruito/Morozov_lab/edit
 
 ### Technology highlights
 
-### Publication
+### Selected publications
+1. Ito, W. & Morozov, A. Prefrontal-amygdala plasticity enabled by observational fear. Neuropsychopharmacol. 44, 1778–1787 (2019). [DOI:10.1038/s41386-019-0342-7](https://doi.org/10.1038/s41386-019-0342-7)<BR>
+2. Ito, W., Erisir, A. & Morozov, A. Observation of Distressed Conspecific as a Model of Emotional Trauma Generates Silent Synapses in the Prefrontal-Amygdala Pathway and Enhances Fear Learning, but Ketamine Abolishes those Effects. Neuropsychopharmacol 40, 2536–2545 (2015). [DOI: 10.1038/npp.2015.100](https://doi.org/10.1038/npp.2015.100)<BR>
 
 ### People
 
