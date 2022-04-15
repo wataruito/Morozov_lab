@@ -22,7 +22,7 @@ You can use the [editor on GitHub](https://github.com/wataruito/Morozov_lab/edit
   
 Alexei|Wataru
 :---:|:---:
-![Alexei](alexei.jpg)|  ![Wataru](wataru.jpg)
+![Alexei](alexei.jpg | width=30)|  ![Wataru](wataru.jpg | width=30)
 Alexei<BR>
 ![Alexei](alexei.jpg)<BR>
 Wataru<BR>
