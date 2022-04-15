@@ -20,7 +20,8 @@ Social conginition and brain circuit in mice.
 
 ### Contact
 Alexei Morozov, Ph.D.<BR>
-morozov.alexei7@gmail.com<BR>
+Email: morozov.alexei7@gmail.com<BR>
+Phone: (540) 526-2021
 Fralin Biomedical Research Institute<BR>
 Virginia Polytechnic Institute and State University<BR>
 2 Riverside Cir Roanoke, VA 24016<BR>
