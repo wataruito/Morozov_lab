@@ -13,6 +13,13 @@ Social conginition and brain circuit in mice.
 2. Ito, W., Erisir, A. & Morozov, A. Observation of Distressed Conspecific as a Model of Emotional Trauma Generates Silent Synapses in the Prefrontal-Amygdala Pathway and Enhances Fear Learning, but Ketamine Abolishes those Effects. Neuropsychopharmacol 40, 2536–2545 (2015). [DOI: 10.1038/npp.2015.100](https://doi.org/10.1038/npp.2015.100)<BR>
 
 ### People
+<p float="left">
+  <img src="/alexei.jpg" width="200" />
+  <img src="/wataru.jpg" width="200" /> 
+</p>
+  
+  
+
 |Alexei|Wataru|
 |:---:|:---:|
 |![Alexei](alexei.jpg)|  ![Wataru](wataru.jpg)|
