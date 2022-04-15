@@ -3,10 +3,17 @@
 Social conginition and brain circuit in mice. 
 
 ### Projects
-1. Emotional synchronization in mice
-2. Observational fear generates silent synapses in the dmPFC BLA circuit
+#### 1. Emotional synchronization in mice
 
-### Technology highlights
+
+#### 2. Observational fear generates silent synapses in the dmPFC BLA circuit
+
+### Technology
+Brain slice physiology with optogenetics
+
+Circuit manipulation with DREADD
+
+Computation
 
 ### Selected publications
 1. Ito, W. & Morozov, A. Prefrontal-amygdala plasticity enabled by observational fear. Neuropsychopharmacol. 44, 1778–1787 (2019). [DOI:10.1038/s41386-019-0342-7](https://doi.org/10.1038/s41386-019-0342-7)<BR>
